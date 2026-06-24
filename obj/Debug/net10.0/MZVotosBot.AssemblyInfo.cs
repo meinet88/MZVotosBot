@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MZVotosBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+910e27f028ee9f191d151f67ccb7cb9e7857e3cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MZVotosBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MZVotosBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
