@@ -26,6 +26,8 @@ var host = Host.CreateDefaultBuilder(args)
 
         // Tarea periódica que publica el ranking cada N horas
         services.AddHostedService<RankingScheduler>();
+
+        services.AddHostedService<VoteWebhookListener>();
     })
     .Build();
 
